@@ -1,12 +1,13 @@
 ## pybind11学习--day01
 **内容概述**
-- pybind11的环境配置
+- pybind11的基础用法
 ****
 重点知识
 - pybind11的环境配置
 - 基础测试用例
 - keyword argument
 - default argument
+- exporting variables
 ****
 
 ### 1.pybind11的环境配置
